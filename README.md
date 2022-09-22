@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murat
 - 👀 I’m interested in Web/Mobil Frontend developmend, Google SEO, Digital Marketing, Online Strategy
-- 🌱 I’m currently learning HTML5 | CSS3 | Bootstrap | JS | React
+- 🌱 I’m currently learning HTML5 | CSS3 | Bootstrap | JS | React | React Router | Redux
 - 💞️ I’m looking to hard to be Specialist Frontend Developer
 - 📫 How to reach me js.muratavci@gmail.com
 
