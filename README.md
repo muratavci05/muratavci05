@@ -11,7 +11,10 @@ I focus on improving myself.
 - 💞️ I’m looking to hard to be Specialist Frontend Developer
 - 📫 How to reach me js.muratavci@gmail.com
 
-
+<div>
+  <img src="https://komarev.com/ghpvc/?username=muratavci05&style=flat-square&color=blue" alt=""/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>  </br>  </br>
 
 <!---
 muratavci05/muratavci05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
