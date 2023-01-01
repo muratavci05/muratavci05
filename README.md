@@ -14,7 +14,9 @@ I focus on improving myself.
 <div>
   <img src="https://komarev.com/ghpvc/?username=muratavci05&style=flat-square&color=blue" alt=""/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>  </br>  </br>
+</div> <p align="left" dir="auto">
+<a href="https://www.linkedin.com/in/muratavci05/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/baki-akt%C3%BCrk-033141252/" height="30" width="40" style="max-width: 100%;"></a>
+</p> </br>  </br>
 
 <!---
 muratavci05/muratavci05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
