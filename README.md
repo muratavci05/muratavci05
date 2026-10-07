@@ -42,7 +42,7 @@ A free German sentence-level CEFR estimation tool for A1–C2.
 
 A professional German learning platform with generated exercises and validation workflows designed to check model output before it reaches learners.
 
-<a href="https://berufpropilot.netlify.app">Open BerufDeutsch</a>
+<a>Open BerufDeutsch</a>
 
 ### PetSense
 
