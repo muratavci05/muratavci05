@@ -42,9 +42,13 @@ A free German sentence-level CEFR estimation tool for A1–C2.
 
 A professional German learning platform with generated exercises and validation workflows designed to check model output before it reaches learners.
 
+<a href="https://berufpropilot.netlify.app">Open BerufDeutsch</a>
+
 ### PetSense
 
 A pet-care product exploring browser-based vision analysis. The basic photo-analysis step is designed to run on the device for that workflow.
+
+<a href="https://petsense-dashboard.netlify.app">Open PetSense</a>
 
 ## Engineering principles
 
