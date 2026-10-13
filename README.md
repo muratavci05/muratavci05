@@ -44,8 +44,6 @@ A professional German learning platform with generated exercises and validation 
 
 <a>Open BerufDeutsch</a>
 
-- A **private industrial AI project** that runs locally and preserves the maintenance knowledge of experienced technicians.
-
 ### PetSense
 
 A pet-care product exploring browser-based vision analysis. The basic photo-analysis step is designed to run on the device for that workflow.
